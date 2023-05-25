@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/04/42/44/98/360_F_442449827_ispo2oI83ffX0TSax4Pgdd7xkqCA5ThA.jpg)]
+[![MasterHead](https://marketplace.canva.com/EAENvk2CS4M/1/0/1600w/canva-simple-technology-linkedin-banner-iHvm-YmdTcQ.jpg)]
 <h1 align="center">Hi 👋, I'm Serge EVEGA</h1>
 <h3 align="center">Tech enthusiast and self-taught from Cameroon, and I love to inspire and educate people in IT. You can find me on Twitter, and Instagram.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/A8gJ.gif">
